@@ -4,7 +4,7 @@ public class Bclass {
 
 	public static void main(String[] args) {
 
-		System.err.println("hai");
+		//System.err.println("hai");
 	}
 
 }
