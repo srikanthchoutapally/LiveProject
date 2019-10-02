@@ -142,6 +142,10 @@ public class FunctionLibrary
 				//System.out.println(hai);
 				
 			}
+			public static void sampleqfdgdffghf1(){
+				//System.out.println(hai);
+				
+			}
 	
 //SupplierCreation Table Validation
 
