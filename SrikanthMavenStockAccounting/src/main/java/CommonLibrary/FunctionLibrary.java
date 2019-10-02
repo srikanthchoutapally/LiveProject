@@ -137,6 +137,10 @@ public class FunctionLibrary
 		bw.close();
 		
 	}
+	//sample project 
+			public static void sample(){
+				//System.out.println(hai);
+			}
 	
 //SupplierCreation Table Validation
 
@@ -179,6 +183,7 @@ public class FunctionLibrary
 		}
 
 	}
+	
 	
 	
 	
