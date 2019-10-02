@@ -138,8 +138,9 @@ public class FunctionLibrary
 		
 	}
 	//sample project 
-			public static void sample(){
+			public static void sampleqfdgdf1(){
 				//System.out.println(hai);
+				
 			}
 	
 //SupplierCreation Table Validation
