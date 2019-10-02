@@ -146,7 +146,10 @@ public class FunctionLibrary
 				//System.out.println(hai);
 				
 			}
-	
+	public void t1()
+	{
+		System.out.println("te1 method");
+	}
 //SupplierCreation Table Validation
 
 	public static void tableValidation(WebDriver driver,String column) throws Throwable
