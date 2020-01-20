@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 public class AppTest 
 {
+	//Test Run
 @Test
 public void kickStart() throws Throwable 
 {
